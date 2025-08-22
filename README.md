@@ -3,7 +3,6 @@
 A lightweight, standalone preloader built with CSS and jQuery. This preloader displays a smooth CSS spinning animation, your logo, and a percentage counter that runs from 0% to 100% as the page loads, providing a great user experience for asset-heavy websites.
 
 ![Preloader in Action](https://i.imgur.com/gK2RBFD.gif) 
-*(You can create your own GIF and replace this link)*
 
 ---
 
